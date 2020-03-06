@@ -19,6 +19,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Pagodabox	https://pagodabox.com/
 - Surge - http://surge.sh/
 - Netlify - https://www.netlify.com/
+Hi Adele
 
 ## DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
